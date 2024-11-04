@@ -1,7 +1,5 @@
----
-title: "1 - Introduction to Amazon Bedrock"
-weight: 20
----
+# 1 - Introduction to Amazon Bedrock
+
 
 # Introduction to Generative AI with Amazon Bedrock
 

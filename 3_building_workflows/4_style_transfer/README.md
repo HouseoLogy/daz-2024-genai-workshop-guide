@@ -1,8 +1,3 @@
----
-title: "Style Transfer"
-weight: 66
----
-
 # Style Transfer Workflow with IPAdapter
 
 Learn how to apply sophisticated style transformations to images while maintaining structural integrity using IPAdapter - a powerful image processing technique that offers more control than traditional image-to-image approaches.
@@ -23,14 +18,15 @@ The style transfer workflow introduces IPAdapter for enhanced control:
 **Input Image**  
 :image[Abstract Smoke Art]{src='/static/comfyui/workflows/assets/abstract_smoke_liquid.jpg' width=196}
 
-**Style Prompt**
-:::code{showCopyAction=true}
+## Style Prompt
+```
 cybernetik cat, dystopian suburbs, artistic environment
-:::
-**Negative prompt**
-:::code{showCopyAction=true}
+```
+
+## Negative prompt
+```
 bad quality, blurry, pixelated
-:::
+```
 
 ### Key Parameters Explained
 - **Model**: dreamshaper-XL.safetensors
@@ -50,23 +46,20 @@ bad quality, blurry, pixelated
 
 ## Practical Use Cases
 
-::::tabs{variant="container"}
-:::tab{id="artistic" label="Artistic Transformation"}
+### Artistic Transformation
 - Photo to digital art
 - Abstract interpretations
 - Style fusion experiments
-:::
-:::tab{id="commercial" label="Commercial Helper"}
+
+### Commercial Helper
 - Brand asset variations
 - Product visualization
 - Marketing material creation
-:::
-:::tab{id="creative" label="Creative Projects"}
+
+### Creative Projects
 - Concept art development
 - Character design iterations
 - Environment mood studies
-:::
-::::
 
 ## Hands-on: Optimizing Style Transfer
 

@@ -1,8 +1,3 @@
----
-title: "Inpainting"
-weight: 64
----
-
 # Inpainting Workflow
 
 Learn how to selectively edit specific parts of images using AI, allowing for precise modifications while maintaining the original image's integrity.
@@ -23,14 +18,15 @@ The inpainting workflow builds upon our previous knowledge with specialized comp
 **Input Image**  
 :image[Toucan with masked head]{src='/static/comfyui/workflows/assets/toucan-mask.jpg' width=196}
 
-**Style Prompt**
-:::code{showCopyAction=true}
+## Style Prompt
+```
 sci-fi horse head, purple and colorful
-:::
-**Negative prompt**
-:::code{showCopyAction=true}
+```
+
+## Negative prompt
+```
 text, watermark, bad quality, blurry, pixelated
-:::
+```
 
 ### Key Parameters Explained
 - **Model**: dreamshaper-XL_lightning
@@ -49,23 +45,20 @@ text, watermark, bad quality, blurry, pixelated
 
 ## Practical Use Cases
 
-::::tabs{variant="container"}
-:::tab{id="repair" label="Image Repair"}
+### Image Repair
 - Remove unwanted objects
 - Fix damaged areas
 - Clean up backgrounds
-:::
-:::tab{id="creative" label="Creative Editing"}
+
+### Creative Editing
 - Change specific features
 - Add new elements
 - Style specific areas
-:::
-:::tab{id="composite" label="Photo Composition"}
+
+### Photo Composition
 - Blend multiple images
 - Adjust lighting/shadows
 - Create seamless composites
-:::
-::::
 
 ## Hands-on: Creating an Inpainting Mask
 

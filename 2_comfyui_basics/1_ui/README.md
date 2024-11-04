@@ -1,7 +1,4 @@
----
-title : "Understanding the Interface"
-weight : 42
----
+# Understanding the Interface
 
 The ComfyUI interface consists of several key areas that you'll use to build and execute your workflows.
 

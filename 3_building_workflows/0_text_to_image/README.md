@@ -1,8 +1,3 @@
----
-title: "Text-to-Image"
-weight: 61
----
-
 # Text-to-Image Generation
 
 Let's explore the fundamental workflow for generating images from text descriptions using ComfyUI.
@@ -19,14 +14,15 @@ The basic workflow consists of:
 6. **Preview Image**: Displays the result
 
 ## Example Prompts used
-**Positive prompt**
-:::code{showCopyAction=true}
+### Positive prompt
+```
 interstellar transit hub, massive glass domes showing nebulas, floating anti-gravity platforms, holographic arrival boards, stellar transit vehicles, atmospheric space effects, clean futuristic design, dynamic lighting, perfect composition
-:::
-**Negative prompt**
-:::code{showCopyAction=true}
+```
+
+### Negative prompt
+```
 text, watermark, bad quality, blurry, pixelated
-:::
+```
 
 ### Key Parameters Explained
 - **Model**: dreamshaper-XL.safetensors (Excellent for detailed scenes)
@@ -38,25 +34,21 @@ text, watermark, bad quality, blurry, pixelated
 - **Denoise**: 1.0 (Full image generation)
 
 ## Practical Use Cases
-::::tabs{variant="container"}
-:::tab{id="concept" label="Concept Art Creation"}
-   - Scene visualization
-   - Character design
-   - Environment design
-:::
-:::tab{id="marketing" label="Marketing Materials"}
-   - Product visualization
-   - Advertisement backgrounds
-   - Social media content
-:::
-:::tab{id="arch" label="Architectural Visualization"}
-   - Interior concepts
-   - Exterior renderings
-   - Space planning
-:::
-::::
+### Concept Art Creation
+- Scene visualization
+- Character design
+- Environment design
 
----
+### Marketing Materials
+- Product visualization
+- Advertisement backgrounds
+- Social media content
+
+### Architectural Visualization
+- Interior concepts
+- Exterior renderings
+- Space planning
+
 
 ## Hands-on: Loading the Workflow
 

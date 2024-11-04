@@ -1,7 +1,4 @@
----
-title: "IPAdapter"
-weight: 70
----
+# IPAdapter
 
 # Image-to-Image Workflow
 
@@ -22,14 +19,15 @@ The workflow adds image input capability to our base workflow:
 **Input Image**  
 :image[Toucan Photoraph]{src='/static/comfyui/workflows/assets/toucan-unsplash.jpg' width=196}
 
-**Style Prompt**
-:::code{showCopyAction=true}
+## Style Prompt
+```
 cybernetik bird, vaporwave aesthetics, sci-fi
-:::
-**Negative prompt**
-:::code{showCopyAction=true}
+```
+
+## Negative prompt
+```
 text, watermark, bad quality, blurry, pixelated
-:::
+```
 
 ### Key Parameters Explained
 - **Model**: dreamshaper-XL.safetensors
@@ -42,23 +40,20 @@ text, watermark, bad quality, blurry, pixelated
 
 ## Practical Use Cases
 
-::::tabs{variant="container"}
-:::tab{id="style" label="Style Transfer"}
+### Style Transfer
 - Photo to digital art
 - Reality to fantasy
 - Period style transformations
-:::
-:::tab{id="creative" label="Creative Editing"}
+
+### Creative Editing
 - Character modifications
 - Scene alterations
 - Artistic interpretations
-:::
-:::tab{id="brand" label="Brand Asset Creation"}
+
+### Brand Asset Creation
 - Logo variations
 - Product visualizations
 - Marketing material alternatives
-:::
-::::
   
 
 ## Hands-on: Loading the Workflow

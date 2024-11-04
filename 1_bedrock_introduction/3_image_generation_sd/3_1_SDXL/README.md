@@ -1,7 +1,5 @@
----
-title : "Stable Diffusion XL 1.0"
-weight : 32
----
+# Stable Diffusion XL 1.0
+
 
 When using Stable Diffusion XL 1.0 you have several configuration options and actions to control your image generation:
 
@@ -90,39 +88,31 @@ Similar to Titan Image Generator you have the capability of editing an existing 
 
 ![SDXL 1.0 - Sci-Fi Metropolis](/static/bedrock/stability/gallery/sdxl_scifi-metropolis.png) ![SDXL 1.0 - Digital Abstract](/static/bedrock/stability/gallery/sdxl_digital_abstract.png) ![SDXL 1.0 - Fantasy Realm](/static/bedrock/stability/gallery/sdxl_fantasy_realm.png) ![SDXL 1.0 - Retro Futuristic](/static/bedrock/stability/gallery/sdxl_retro_futuristic.png)
 
-:::::tabs{variant="container"}
 
-::::tab{id="scifi" label="Sci-Fi Metropolis"}
-:::code{showCopyAction=true}
+## Sci-Fi Metropolis
+```
 futuristic sci-fi cityscape, towering holographic skyscrapers, flying vehicles, vibrant neon lights, diverse alien cultures walking the streets, soft ambient glow, advanced technology integration, stunning sunset sky, deep shadows, cinematic angle, ultra high resolution, dynamic composition
-:::
-::::
+```
 
-::::tab{id="abstract" label="Digital Abstract"}
-:::code{showCopyAction=true}
+## Digital Abstract
+```
 abstract digital artwork, flowing geometric shapes, vibrant color gradients, swirling patterns, light effects interacting with shapes, dynamic movement, ethereal atmosphere, high-definition details, immersive visual experience, unique artistic interpretation
-:::
-::::
+```
 
-::::tab{id="jungle" label="Neon Jungle"}
-:::code{showCopyAction=true}
+## Neon Jungle
+```
 bioluminescent rainforest at night, glowing flora and fauna, neon pink and blue organic lighting, mystical fog effects, floating spores, ethereal atmosphere, exotic plant structures, dynamic lighting, deep shadows, ultra detailed environment, perfect composition, photorealistic quality
-:::
-::::
+```
 
-::::tab{id="retro" label="Retro Future"}
-:::code{showCopyAction=true}
+## Retro Future
+```
 retro-futuristic scene, 1980s inspired architecture with vibrant neon colors, flying cars resembling vintage designs, palm trees lining the streets, sci-fi elements blended with nostalgia, cosmic backgrounds, playful and imaginative atmosphere, dreamlike quality
-:::
-::::
+```
 
-::::tab{id="fantasy" label="Fantasy Realm"}
-:::code{showCopyAction=true}
+## Fantasy Realm
+```
 enchanting fantasy forest realm, mystical creatures roaming among vibrant flora, ethereal light breaking through the canopy, ancient ruins covered in moss, whimsical architecture, magical atmosphere, sense of adventure and exploration, picturesque and serene
-:::
-::::
-
-:::::
+```
 
 ---
 

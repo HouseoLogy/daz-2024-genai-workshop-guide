@@ -1,7 +1,4 @@
----
-title : "Remove Object"
-weight : 25
----
+# Remove Object
 
 Object removal in Titan Image Generator uses semantic masks to isolate and remove specific elements from an image. The process employs content-aware inpainting to seamlessly fill the space where the object was removed. You can specify the object to remove either through a text prompt (maskPrompt) or by providing a binary mask image (maskImage) where a rectangle shape indicate the area to be removed. The model will automatically fill the removed area to match the surrounding context.
 
@@ -19,10 +16,9 @@ Object removal in Titan Image Generator uses semantic masks to isolate and remov
 
 #### Used Prompt for source Image
 We will use the previous prompt to illustrate the different actions.
-:::code{showCopyAction=true}
-A white art gallery wall with a large framed canvas in the center, professional gallery lighting from above, polished concrete floor, 
-minimalist gallery setting, showing an abstract painting with flowing shapes in blue and gold tones, 4k quality, professional interior photography
-:::
+```
+A white art gallery wall with a large framed canvas in the center, professional gallery lighting from above, polished concrete floor, minimalist gallery setting, showing an abstract painting with flowing shapes in blue and gold tones, 4k quality, professional interior photography
+```
 
 ---
 

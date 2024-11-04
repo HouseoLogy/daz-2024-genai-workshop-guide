@@ -50,7 +50,7 @@ In the following sections, we'll:
 2. Create your first generated image
 3. Explore Titan Image Genrator and Stable Diffusion features
 
-Ready to start generating images? Let's proceed to setting up [Amazon Bedrock Model Access](1_bedrock_introduction/1_model_access/README.md)!
+Ready to start generating images? Let's proceed to setting up [Amazon Bedrock Model Access](../1_model_access/README.md)!
 
 ---
 

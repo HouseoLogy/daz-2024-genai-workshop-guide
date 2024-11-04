@@ -1,7 +1,4 @@
----
-title : "Enable Amazon Bedrock Model Access"
-weight : 22
----
+# Enable Amazon Bedrock Model Access
 
 Before we start, we have to enable Model access in Amazon Bedrock.
 

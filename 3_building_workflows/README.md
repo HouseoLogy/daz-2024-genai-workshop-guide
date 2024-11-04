@@ -1,7 +1,4 @@
----
-title: "3 - ComfyUI Workflows"
-weight: 60
----
+# 3 - ComfyUI Workflows
 
 # Creative Workflow Collection
 

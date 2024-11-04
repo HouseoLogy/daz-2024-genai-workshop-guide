@@ -1,7 +1,4 @@
----
-title: "What is ComfyUI"
-weight: 41
----
+# What is ComfyUI
 
 ComfyUI is a powerful, node-based interface for creating content generation workflows. It provides a visual way to create, customize, and chain together different nodes for content generation and manipulation.
 
@@ -15,9 +12,7 @@ With ComfyUI, you can:
 
 ![ComfyUI Screenshot - Default Workflow](/static/comfyui/intro/comfyui_gui.png) 
 
-ComfyUI has meanwhile over 55'000 Stars on GitHub and is now part of :link[Comfy Org]{href="https://www.comfy.org/" external=true}.  
-
-GitHub Repo: :link[comfyanonymous/ComfyUI]{href="https://github.com/comfyanonymous/ComfyUI" external=true}
+[ComfyUI](https://github.com/comfyanonymous/ComfyUI) has over 55,000 ⭐ on GitHub and is now part of [Comfy Org](https://www.comfy.org/).
 
 
 ## Key Features

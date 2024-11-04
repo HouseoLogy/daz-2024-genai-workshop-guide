@@ -1,9 +1,4 @@
----
-title: "tmp workflow placeholder"
-weight: 79
----
-
-# [PLACEHOLDER]
+# [tmp workflow placeholder]
 
 Additional Suggested Workflows:
 

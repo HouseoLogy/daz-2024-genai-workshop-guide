@@ -1,7 +1,4 @@
----
-title: "Basic Workflow"
-weight: 43
----
+ # Basic Workflow
 
 Let's start by accessing your ComfyUI instance and running the default workflow to understand how everything works together.
 

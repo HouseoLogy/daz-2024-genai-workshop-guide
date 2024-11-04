@@ -1,16 +1,13 @@
----
-title : "Image generation with Stable Diffusion"
-weight : 30
----
+# Image generation with Stable Diffusion
 
 ## Stability AI Image Generation Models in Bedrock
 
 ![SD3 Large 1.0 - Example Prompt](/static/bedrock/stability/sd_intro.png)
 
 #### Example Prompt used in Stable Image Ultra 1.0
-:::code{showCopyAction=true}
+```
 masterpiece ultra realistic photograph, solarpunk cityscape at dawn, floating gardens between crystalline towers, iridescent solar panels catching morning light,ancient brutalist architecture transformed by living walls of flowering vines, elegant sky bridges connecting bio-engineered tree houses, clean energy auroras dancing above city, pristine waterfalls cascading down sustainable architecture, morning mist catching golden rays, butterflies near holographic windows, advanced civilization harmonizing with nature, bioluminescent pathways, clean energy streams, cinematic composition, hyper detailed, octane render, architectural photography, artgerm, soft ambient occlusion, volumetric god rays, depth of field, 8k uhd, ray tracing reflections
-:::
+```
   
 ---
 

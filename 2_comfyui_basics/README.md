@@ -1,7 +1,4 @@
----
-title: "2 - ComfyUI Basics"
-weight: 40
----
+# 2 - ComfyUI Basics
 
 # Introduction to ComfyUI
 

@@ -1,7 +1,5 @@
----
-title : "Image generation with Titan Image Generator"
-weight : 23
----
+# Image generation with Titan Image Generator
+
 
 ## Titan Image Generator G1 v2
 
@@ -71,26 +69,30 @@ These settings allow you to configure your image generation process and maintain
 
 ![Titan - Paint Data Flow](/static/bedrock/stability/gallery/titan_paint.png) ![Titan - Mechanical Bloom](/static/bedrock/stability/gallery/titan_bloom.png) ![Titan - Cyber Shrine](/static/bedrock/stability/gallery/titan_temple.png) ![Titan - Time Gallery](/static/bedrock/stability/gallery/titan_museum.png) 
 
-**Paint Data Flow**
-:::code{showCopyAction=true}
+## Paint Data Flow
+```
 flowing paint streams in digital space, abstract data visualization through liquid colors, geometric patterns emerging from paint splashes, holographic color theory, dynamic brush strokes, clean composition, perfect color harmony, ultra sharp details, artistic algorithms
-:::
-**Cyber Shrine**
-:::code{showCopyAction=true}
+```
+
+## Cyber Shrine
+```
 ancient temple with cybernetic upgrades, holographic prayer wheels, neon-lit ancient symbols, incense smoke with data particles, clean architectural lines, perfect mood lighting, dynamic composition, ultra detailed ornaments, ethereal atmosphere
-:::
-**Liquid Architecture**
-:::code{showCopyAction=true}
+```
+
+## Liquid Architecture
+```
 flowing metallic structures defying gravity, liquid mercury buildings catching light, chrome waterfalls between geometric forms, clean minimal design, perfect reflections, dynamic fluid motion, ultra sharp details, professional lighting, ethereal atmosphere
-:::
-***Mechanical Bloom**
-:::code{showCopyAction=true}
+```
+
+## Mechanical Bloom
+```
 clockwork flowers opening at dawn, brass and copper petals with steam effects, geometric garden design, clean industrial aesthetic, perfect morning light, dynamic mechanisms, ultra detailed machinery, professional composition, ethereal mist
-:::
-**Time Gallery**
-:::code{showCopyAction=true}
+```
+
+## Time Gallery
+```
 museum space warping through different eras, classical sculptures morphing into futuristic forms, clean white gallery space, perfect temporal transitions, dynamic chronological flow, ultra detailed art pieces, professional lighting, ethereal atmosphere
-:::
+```
 
 ---
 

@@ -1,7 +1,4 @@
----
-title: "Upscaling Images"
-weight: 62
----
+# Upscaling Images
 
 # Upscaling Images Workflow
 
@@ -28,18 +25,15 @@ All previous parameters remain the same, plus:
 - **Upscaled Size**: 2048 x 2048
 
 ## Practical Use Cases
-::::tabs{variant="container"}
-:::tab{id="high-res" label="High-Resolution Requirements"}
+### High-Resolution Requirements
 - Print-ready artwork
 - Large format displays
 - Detailed presentations
-:::
-:::tab{id="detail" label="Detail Enhancement"}
+
+### Detail Enhancement
 - Portrait enhancement
 - Product photography
 - Architectural renderings
-:::
-::::
 
 ## Hands-on: Loading the Upscaling Enhanced Workflow
 

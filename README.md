@@ -1,4 +1,4 @@
-# daz-2024-genai-workshop-guide
+# Creative Gen-AI Workwshop with Amazon Bedrock & ComfyUI
 ```bash
 temporary workshop guide to deep-dive into some neat generative AI topics.
 ```

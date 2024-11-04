@@ -3,6 +3,8 @@
 temporary workshop guide to deep-dive into some neat generative AI topics.
 ```
 
+## Table of Contents
+- [Getting Started](#0_getting_started)
 
 
 # Creative generative AI Workshop

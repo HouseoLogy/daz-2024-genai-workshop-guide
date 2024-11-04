@@ -39,7 +39,7 @@ temporary workshop guide to deep-dive into some neat generative AI topics.
 - [5 - Advanced Features](5_advanced_features/README.md)
 - [6 - Wrap Up](6_wrap_up/README.md)
   
-  
+
 ---
 
 # Creative generative AI Workshop
@@ -77,3 +77,8 @@ Note: This workshop involves some hands-on activities and cloud resource usage. 
 Estimated time: 2-3 hours
 
 Let's start exploring the creative possibilities of generative AI! Let's :link[Get Started]{href="/0-getting-started"}!
+
+
+## What content you can expect
+
+![SDXL 1.0 - Sci-Fi Metropolis](/static/bedrock/stability/gallery/sdxl_scifi-metropolis.png) ![SDXL 1.0 - Digital Abstract](/static/bedrock/stability/gallery/sdxl_digital_abstract.png) ![SDXL 1.0 - Fantasy Realm](/static/bedrock/stability/gallery/sdxl_fantasy_realm.png) ![SDXL 1.0 - Retro Futuristic](/static/bedrock/stability/gallery/sdxl_retro_futuristic.png) ![SD3 Large - Epic Gaming Discovery](/static/bedrock/stability/gallery/sd3_epic_fantasy.jpeg) ![SD3 Large - Atomic Age Cityscape](/static/bedrock/stability/gallery/sd3_atomic_age.jpeg) ![SD3 Large - Wisdom Portrait](/static/bedrock/stability/gallery/sd3_wisdom_portrait.jpeg) ![SD3 Large - Modern Art](/static/bedrock/stability/gallery/sd3_modern_art.jpeg) ![Stable Image Core - Steampunk Observatory](/static/bedrock/stability/gallery/core_steampunk.jpeg) ![Stable Image Core - Miniature World](/static/bedrock/stability/gallery/core_mini.jpeg) ![Stable Image Core - Paper Univers](/static/bedrock/stability/gallery/core_paper.jpeg) ![Stable Image Core - Neon Noir](/static/bedrock/stability/gallery/core_neon.jpeg) ![Stable Image Ultra - Hyperrealistic Portrait](/static/bedrock/stability/gallery/ultra_hyper.jpeg) ![Stable Image Ultra - Desert Punk](/static/bedrock/stability/gallery/ultra_desert.jpeg) ![Stable Image Ultra - Sleeping Exposure](/static/bedrock/stability/gallery/ultra_exposure.jpeg) ![Stable Image Ultra - Floating Monastery](/static/bedrock/stability/gallery/ultra_floating.jpeg) 

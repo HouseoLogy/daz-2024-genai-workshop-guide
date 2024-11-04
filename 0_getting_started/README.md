@@ -1,7 +1,5 @@
----
-title : "Getting Started"
-weight : 10
----
+# Getting Started
+
 
 Before diving into the workshop content, let's ensure you have everything set up correctly. This section will guide you through accessing your AWS account and necessary resources.
 

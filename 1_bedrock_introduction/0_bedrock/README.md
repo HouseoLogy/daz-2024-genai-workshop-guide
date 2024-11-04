@@ -1,7 +1,5 @@
----
-title: "What is Amazon Bedrock"
-weight: 21
----
+# What is Amazon Bedrock?
+
 
 ![Amazon Bedrock](/static/bedrock/bedrock_banner.png)  
 Amazon Bedrock is a fully managed service that provides access to high-performing foundation models (FMs) through a unified API. It offers a broad set of capabilities to build generative AI applications with security, privacy, and responsible AI practices.
@@ -52,12 +50,13 @@ In the following sections, we'll:
 2. Create your first generated image
 3. Explore Titan Image Genrator and Stable Diffusion features
 
-Ready to start generating images? Let's proceed to setting up [model access](/1-bedrock-introduction//1-model-access)!
+Ready to start generating images? Let's proceed to setting up [Amazon Bedrock Model Access](1_bedrock_introduction/1_model_access/README.md)!
 
 ---
 
 ### Additional resources and references
-:link[Amazon Bedrock]{href="https://aws.amazon.com/bedrock/" external=true}  
-:link[Titan Image Generator v2 Blog]{href="https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/" external=true}  
-:link[Stability AI new models Blog]{href="https://aws.amazon.com/blogs/aws/stability-ais-best-image-generating-models-now-in-amazon-bedrock/" external=true}
+
+[Amazon Bedrock](https://aws.amazon.com/bedrock/)  
+[Titan Image Generator v2 Blog](https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/)  
+[Stability AI new models Blog](https://aws.amazon.com/blogs/aws/stability-ais-best-image-generating-models-now-in-amazon-bedrock/)
 

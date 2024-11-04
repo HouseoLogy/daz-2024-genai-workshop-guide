@@ -1,4 +1,4 @@
-# Creative Gen-AI Workwshop with Amazon Bedrock & ComfyUI
+# Creative Generative AI Workshop with Amazon Bedrock & ComfyUI
 ```bash
 temporary workshop guide to deep-dive into some neat generative AI topics.
 ```

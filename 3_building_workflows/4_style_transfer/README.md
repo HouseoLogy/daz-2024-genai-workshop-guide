@@ -16,7 +16,8 @@ The style transfer workflow introduces IPAdapter for enhanced control:
 
 ## Example Used
 **Input Image**  
-:image[Abstract Smoke Art]{src='/static/comfyui/workflows/assets/abstract_smoke_liquid.jpg' width=196}
+
+[Abstract Smoke Art](/static/comfyui/workflows/assets/abstract_smoke_liquid.jpg)
 
 ## Style Prompt
 ```

@@ -4,8 +4,7 @@ Learn how to transform QR codes into artistic designs while maintaining their sc
 
 ## Workflow Components
 ![QR Code Art Workflow](/static/comfyui/workflows/5_qr_code_workflow.png)
-## Workflow Components
-![Style Transfer Workflow](/static/comfyui/workflows/4_style_transfer_workflow.png)
+
 
 The QR code art workflow uses ControlNet for structure preservation:
 1. **Load Checkpoint**: dreamshaper-8-sd15 model
@@ -19,7 +18,7 @@ The QR code art workflow uses ControlNet for structure preservation:
 
 ## Example Used
 **Input Image**  
-:image[QR Code]{src='/static/comfyui/workflows/assets/qr-code-input.jpg' width=196}
+[QR Code](/static/comfyui/workflows/assets/qr_code_rick.jpg)
 
 ## Style Prompt
 ```

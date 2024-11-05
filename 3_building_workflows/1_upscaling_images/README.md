@@ -1,5 +1,3 @@
-# Upscaling Images
-
 # Upscaling Images Workflow
 
 Let's enhance our text-to-image workflow by adding upscaling capabilities to achieve higher resolution and sharper details.

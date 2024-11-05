@@ -39,5 +39,5 @@ Review the terms and conditions, then click "Join Event" to access your workshop
 
 > **💡 Note:** If you encounter any issues during setup, please notify the workshop instructors.
   
-Once you've completed the account setup process, you're ready to begin the workshop. Click `Next` to proceed to the :link[introduction of Amazon Bedrock]{href="/1-bedrock-introduction"}
+Once you've completed the account setup process, you're ready to begin the workshop. Click `Next` to proceed to the link [introduction of Amazon Bedrock](../1_bedrock_introduction)
 

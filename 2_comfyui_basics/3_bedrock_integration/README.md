@@ -1,7 +1,6 @@
 # Amazon Bedrock integration into ComfyUI
 
 Thanks to a dedicated and [publicly available custom node](https://github.com/aws-samples/comfyui-llm-node-for-amazon-bedrock/), it is possible to invoke foundation models from Amazon Bedrock in ComfyUI.
-
 ## Supported models:
 
 Here are models and features currently supported.
@@ -25,8 +24,7 @@ Here are models and features currently supported.
 
 ## Examples
 
-Workflow examples are available [here for download](./workflows). 
-To import these workflows, click "Load" in the ComfyUI UI, go to workflows directory and choose the one to experiment with.
+Workflow examples will be shown below. To import these workflows, download the corresponding workflow files or images, click "Load" in the ComfyUI UI, go to the download directory and choose the one to experiment with.
 
 ### Text to image with prompt translation and refinement
 Automatically refine the text prompt to generate high quality images.

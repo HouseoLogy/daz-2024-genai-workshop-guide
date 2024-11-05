@@ -23,6 +23,7 @@ temporary workshop guide to deep-dive into some neat generative AI topics.
     - [What is ComfyUI](2_comfyui_basics/0_comfyui/README.md)
     - [ComfyUI Interface](2_comfyui_basics/1_ui/README.md)
     - [Basic Workflow](2_comfyui_basics/2_basic_workflow/README.md)
+    - [Amazon Bedrock Integration Workflows](2_comfyui_basics/3_bedrock_integration/README.md)
 - [3 - Building Workflows](3_building_workflows/README.md)
     - [Text to Image](3_building_workflows/0_text_to_image/README.md)
     - [Upscaling Images](3_building_workflows/1_upscaling_images/README.md)

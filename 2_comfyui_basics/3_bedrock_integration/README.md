@@ -24,7 +24,7 @@ Here are models ready for use currently.
 
 ## Examples
 
-Workflow examples are available [here for download](./workflows) for download. 
+Workflow examples are available [here for download](./workflows). 
 To import these workflows, click "Load" in the ComfyUI UI, go to workflows directory and choose the one to experiment with.
 
 ### Text to image with prompt translation and refinement

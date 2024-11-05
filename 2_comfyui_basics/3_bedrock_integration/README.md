@@ -4,7 +4,7 @@ Thanks to a dedicated and [publicly available custom node](https://github.com/aw
 
 ## Supported models:
 
-Here are models ready for use currently.
+Here are models and features currently supported.
 
 - Anthropic:
 

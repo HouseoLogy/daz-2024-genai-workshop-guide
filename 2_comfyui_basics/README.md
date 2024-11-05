@@ -10,7 +10,7 @@ In this module, you'll discover:
 - What ComfyUI is and its capabilities
 - How to navigate the node-based interface
 - Basic workflow components and connections
-  
+- Amazon Bedrock integration  
 
 > **💡**  ComfyUI might seem complex at first, but we'll break it down into manageable steps. Focus on understanding the basic connections before moving to building advanced workflows.
 

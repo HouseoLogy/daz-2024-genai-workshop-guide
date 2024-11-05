@@ -31,49 +31,49 @@ To import these workflows, click "Load" in the ComfyUI UI, go to workflows direc
 ### Text to image with prompt translation and refinement
 Automatically refine the text prompt to generate high quality images.
 
-Download [this workflow file](workflows/text2img_with_prompt_refinement.json) and load in ComfyUI
+Download [this workflow file](workflows/text2img_with_prompt_refinement.json) or the image below and load in ComfyUI.
 
 You can use the Bedrock LLM to refine and translate the prompt. It then utilize the image generation model (eg. SDXL, Titan Image) provided by Bedrock.
 The result is much better after preprocessing of prompt compared to the original SDXL model (the bottom output in figure) which doesn't have the capability of understanding Chinese.
 
-![](./assets/example_prompts_refine.webp)
+![](./assets/example_prompts_refine.png)
 
 ### Image Caption with Claude 3
 
 Generate captions of a provided image.
 
-Download [this workflow file](workflows/claude3_image_caption.json) and load in ComfyUI
+Download [this workflow file](workflows/claude3_image_caption.json) or the image below and load in ComfyUI.
 
 This workflow uses Bedrock Claude 3 multimodal to caption image.
 
-![](./assets/example_claude3_multimodal.webp)
+![](./assets/example_claude3_multimodal.png)
 
 ### Inpainting with natural language
 Use natural language to describe an item in the image and replace it. 
 
-Download [this workflow file](workflows/inpainting_with_natural_language.json) and load in ComfyUI
+Download [this workflow file](workflows/inpainting_with_natural_language.json) or the image below and load in ComfyUI.
 
 This workflow leverages Claude3 to analyze the replacement information in the prompt. Additionally, it utilizes Bedrock Titan Image to detect objects with text and perform inpainting in a single step.
 
-![](./assets/example_inpainting_with_natural_language.webp)
+![](./assets/example_inpainting_with_natural_language.png)
 
 ### Generate Image Variation
 Use natural language to generate variation of an image.
 
-Download [this workflow file](workflows/generate_image_variation.json) and load in ComfyUI
+Download [this workflow file](workflows/generate_image_variation.json) or the image below and load in ComfyUI.
 
 This workflow begins by using Bedrock Claude3 to refine the image editing prompt. It then utilizes Bedrock Titan Image's variation feature to generate similar images based on the refined prompt.
 
-![](./assets/example_generate_image_variation.webp)
+![](./assets/example_generate_image_variation.png)
 
 
 ### Generate Image Variation with Image Caption
 Use natural language to generate variation of an image without re-describing the original image content.
 
-Download [this workflow file](workflows/variation_with_caption.json) and load in ComfyUI
+Download [this workflow file](workflows/variation_with_caption.json) or the image below and load in ComfyUI.
 
 This workflow begins by using Bedrock Claude3 to refine the image editing prompt, generation caption of the original image, and merge the two image description into one. It then utilizes Bedrock Titan Image's variation feature to generate similar images based on the refined prompt.
 
-![](./assets/example_variation_with_caption.webp)
+![](./assets/example_variation_with_caption.png)
 
 

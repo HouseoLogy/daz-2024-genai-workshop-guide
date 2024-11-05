@@ -1,6 +1,7 @@
-# Amazon Bedrock nodes for ComfyUI
+# Amazon Bedrock integration into ComfyUI
 
 Thanks to a dedicated and [publicly available custom node](https://github.com/aws-samples/comfyui-llm-node-for-amazon-bedrock/), it is possible to invoke foundation models from Amazon Bedrock in ComfyUI.
+
 ## Supported models:
 
 Here are models ready for use currently.

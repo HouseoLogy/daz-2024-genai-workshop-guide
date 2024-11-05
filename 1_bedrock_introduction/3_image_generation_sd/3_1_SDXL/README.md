@@ -52,14 +52,14 @@ For generating an image you just have to type in a prompt, optionally change the
 ![SDXL 1.0 - Generate Image](/static/bedrock/stability/sdxl/sdxl_generate_image.png)
 
 #### Used Prompt for source Image
-**Positive prompt**
-:::code{showCopyAction=true}
+**Positive prompt**:
+```
 fragmented geometric face, overlapping planes, analytical cubism, muted earth tones, newspaper texture, gallery presentation, clean composition
-:::
-**Negative prompt**
-:::code{showCopyAction=true}
+```
+**Negative prompt**:
+```
 realistic, smooth, natural colors, organic shapes
-:::
+```
 
 ---
 

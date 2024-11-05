@@ -38,7 +38,7 @@ Amazon Bedrock is a fully managed service that provides access to high-performin
 ## Workshop Focus
 
 In this workshop, we will specifically use:
-- Titan Image Generator for actiosn like removing or replacing objects, backgrounds 
+- Titan Image Generator for actions like removing or replacing objects, backgrounds 
 - Stable Diffusion for generating images and variations
 
 > **💡 Tip:** While Bedrock offers many models, we'll focus on those suited for image generation tasks.
